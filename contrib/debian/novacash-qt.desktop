@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Novacash Core
+Comment=Novacash P2P Cryptocurrency
+Comment[fr]=Novacash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Novacash, eşten eşe kriptografik sanal para birimi
+Exec=novacash-qt %u
+Terminal=false
+Type=Application
+Icon=novacash128
+MimeType=x-scheme-handler/novacash;
+Categories=Office;Finance;
+StartupWMClass=Novacash-qt

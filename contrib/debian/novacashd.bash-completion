@@ -1,0 +1,2 @@
+contrib/novacashd.bash-completion	novacashd
+contrib/novacash-cli.bash-completion novacash-cli

@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/novacash_bg.qm</file>
+        <file alias="ca">locale/novacash_ca.qm</file>
+        <file alias="cs">locale/novacash_cs.qm</file>
+        <file alias="da">locale/novacash_da.qm</file>
+        <file alias="de">locale/novacash_de.qm</file>
+        <file alias="en">locale/novacash_en.qm</file>
+        <file alias="en_GB">locale/novacash_en_GB.qm</file>
+        <file alias="en_US">locale/novacash_en_US.qm</file>
+        <file alias="eo">locale/novacash_eo.qm</file>
+        <file alias="es">locale/novacash_es.qm</file>
+        <file alias="es_ES">locale/novacash_es_ES.qm</file>
+        <file alias="fi">locale/novacash_fi.qm</file>
+        <file alias="fr_FR">locale/novacash_fr_FR.qm</file>
+        <file alias="hi_IN">locale/novacash_hi_IN.qm</file>
+        <file alias="hr">locale/novacash_hr.qm</file>
+        <file alias="hr_HR">locale/novacash_hr_HR.qm</file>
+        <file alias="it">locale/novacash_it.qm</file>
+        <file alias="ja">locale/novacash_ja.qm</file>
+        <file alias="ko_KR">locale/novacash_ko_KR.qm</file>
+        <file alias="lt_LT">locale/novacash_lt_LT.qm</file>
+        <file alias="nl">locale/novacash_nl.qm</file>
+        <file alias="pl">locale/novacash_pl.qm</file>
+        <file alias="pt">locale/novacash_pt.qm</file>
+        <file alias="pt_BR">locale/novacash_pt_BR.qm</file>
+        <file alias="ro_RO">locale/novacash_ro_RO.qm</file>
+        <file alias="ru">locale/novacash_ru.qm</file>
+        <file alias="sk">locale/novacash_sk.qm</file>
+        <file alias="sv">locale/novacash_sv.qm</file>
+        <file alias="tr">locale/novacash_tr.qm</file>
+        <file alias="uk">locale/novacash_uk.qm</file>
+        <file alias="vi">locale/novacash_vi.qm</file>
+        <file alias="zh_CN">locale/novacash_zh_CN.qm</file>
+        <file alias="zh_TW">locale/novacash_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,3 @@
+usr/local/bin/novacashd usr/bin
+usr/local/bin/novacash-cli usr/bin
+debian/examples/novacash.conf etc/novacash

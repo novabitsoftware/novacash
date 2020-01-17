@@ -1,0 +1,6 @@
+usr/local/bin/novacash-qt usr/bin
+share/pixmaps/novacash32.xpm usr/share/pixmaps
+share/pixmaps/novacash16.xpm usr/share/pixmaps
+share/pixmaps/novacash128.png usr/share/pixmaps
+debian/novacash-qt.desktop usr/share/applications
+debian/novacash-qt.protocol usr/share/kde4/services/
