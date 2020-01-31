@@ -1,4 +1,4 @@
-<!DOCTYPE RCC><RCC version="1.0">
+<RCC>
     <qresource prefix="/icons">
         <file alias="bitcoin">res/icons/bitcoin.png</file>
         <file alias="address-book">res/icons/address-book.png</file>
@@ -65,6 +65,28 @@
         <file alias="novote">res/icons/novote.png</file>
         <file alias="abstainvote">res/icons/abstainvote.png</file>
         <file alias="onion">res/icons/onion.png</file>
+        <file alias="about">res/icons/about.png</file>
+        <file alias="handoffer">res/icons/HandOffer.png</file>
+        <file alias="address-book_dark">res/icons/address-book_dark.png</file>
+        <file alias="inkpot">res/icons/inkpot.png</file>
+        <file alias="check">res/icons/check.png</file>
+        <file alias="checkbook">res/icons/checkbook.png</file>
+        <file alias="gearwheel">res/icons/gearwheel.png</file>
+        <file alias="percent">res/icons/percent.png</file>
+        <file alias="console">res/icons/console.png</file>
+        <file alias="document_gear">res/icons/document_gear.png</file>
+        <file alias="radar">res/icons/radar.png</file>
+        <file alias="data_copy">res/icons/data_copy.png</file>
+        <file alias="eye_dark">res/icons/eye_dark.png</file>
+        <file alias="export_dark">res/icons/export_dark.png</file>
+        <file alias="handoffer_dark">res/icons/handoffer_dark.png</file>
+        <file alias="editcopy_dark">res/icons/editcopy_dark.png</file>
+        <file alias="check_dark">res/icons/check_dark.png</file>
+        <file alias="inkpot_dark">res/icons/inkpot_dark.png</file>
+        <file alias="gearwheel_dark">res/icons/gearwheel_dark.png</file>
+        <file alias="import_dark">res/icons/import_dark.png</file>
+        <file alias="thumbup_dark">res/icons/thumbup_dark.png</file>
+        <file alias="key_dark">res/icons/key_dark.png</file>
     </qresource>
     <qresource prefix="/css">
         <file alias="default">res/css/default.css</file>
@@ -83,6 +105,7 @@
         <file alias="splash">res/images/splash.png</file>
         <file alias="splash_testnet">res/images/splash_testnet.png</file>
         <file alias="splash_regtest">res/images/splash_regtest.png</file>
+        <file>res/images/NovacashIntro.png</file>
     </qresource>
     <qresource prefix="/movies">
         <file alias="spinner-000">res/movies/spinner-000.png</file>
